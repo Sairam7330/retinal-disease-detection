@@ -103,28 +103,10 @@ This project implements a **Federated Learning** pipeline using **ConvNeXt** and
 
 ---
 
-## 📁 Folder Structure
-
-```
-├── federated/
-│   ├── train_federated.py
-│   ├── extract_weights.py
-│
-├── models/
-│   ├── convnext_model.py
-│   ├── resnet_attention_model.py
-│
-├── data/
-│   ├── client_1.tfrecord
-│   ├── client_2.tfrecord
-│   ├── client_3.tfrecord
-│   ├── validation.tfrecord
-│
-├── saved_models/
-│   ├── federated_global_weights.h5
-│
-├── README.md
-```
+## 📁 Dataset Links 
+for baseline models : https://drive.google.com/drive/folders/1OgXAVxoM4degJE9y4jByAJ6pkyPpf1im?usp=sharing
+for federated learning model with 3 clinents :
+https://drive.google.com/drive/folders/1jcsCVURrtbKzSBXzrcXYt8zvG--vsRDE?usp=drive_link
 
 ---
 
@@ -134,4 +116,6 @@ This pipeline demonstrates how federated learning can effectively combine deep l
 
 ---
 
-> 📅 Developed in 2025 • Powered by TensorFlow Federated
+> 📅 Developed by Chandragi Sairam
+> for queries : sairamchandragi@gmail.com 
+• Powered by TensorFlow Federated
